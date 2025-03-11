@@ -2,8 +2,8 @@
 
 int main () {
 
-    char produto1[50] = "penis de borracha";
-    char produto2[50] = "boneca inflavel";
+    char produto1[50] = "Monitor";
+    char produto2[50] = "Cadeira Gamer 2000";
 
     unsigned int estoqueProduto1 = 1000;
     unsigned int estoqueProduto2 = 2000;
